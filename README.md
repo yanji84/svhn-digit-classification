@@ -13,3 +13,4 @@ python Run.py
 - After training, classify a digit image by passing an image file name
 python Run.py [filename]
 
+For more details, visit https://experimentationground.wordpress.com/2016/09/26/digit-recognition-from-google-street-view-images/
